@@ -1,0 +1,21 @@
+body {
+    color: royalblue;
+    background: aliceblue} a:link
+    { color: midnightblue } a:visited
+    { color: darkslateblue } a:active
+    { color: #a05050 }
+ a.case1:link { background: green } p:first-line { margin-left: 25px }
+div.foo:first-line { font-weight: bold; margin-left: 30px } div:first-letter {
+    
+font-size: x-large; color: #ffffff } ul ul li { font-size: x-large; font-
+decoration: italic } h2 em { font-weight: 900 } h2.ex1 { color: rgb(255, 83, 4);
+    
+/* This type of heading MUST be Green and Large! */ line-height: 50px;
+font-size: 40px } 
+.funkyclass { font: 36pt/40pt courier; font-variant: small-caps; color:#ff8080;border: thick dashed blue }
+#tagid1 { padding: 20px; border: 20px groove #ffffff }
+.class1, #tagid2 { font-family: 'comic sans ms', fantasy; color: purple }
+h1, h2, h3, div.class5, blockquote { background: skyblue }
+p.special { font: 12pt/14pt sans-serif; margin: 5px 0px 2px 25px; border: medium dashed #ff0000; background: white url(http://www.foo.com/image.gif) repeat-x fixed top right }
+blockquote { margin-left: 2cm; background: #ffffff; color: #00ff00 } 
+.part1 { font-size: xx-large; color: #808000 } h5 { font-size: xx-small ! important; color: red ! important }
